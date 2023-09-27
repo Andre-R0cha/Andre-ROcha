@@ -29,8 +29,10 @@
 <div> 
 
 
- <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://icongr.am/simple/discord.svg?size=30&color=096bec&colored=false" target="_blank"></a>    
-  <a href = "mailto:gemeos@Andre-R0cha.com"><img src="https://icongr.am/simple/gmail.svg?size=30&color=930606&colored=false" target="_blank"></a>      <a href="https://www.linkedin.com/in/andré-gonçalves-rocha-8329a51b4/" target="_blank"><img src="https://icongr.am/simple/linkedin.svg?size=30&color=2690ed&colored=false" target="_blank"></a>  
-  <a href="https://instagram.com/andre_g.rocha/" target="_blank"><img src="https://icongr.am/simple/instagram.svg?size=30&color=f0d314&colored=false" target="_blank"></a>   <a href="https://www.linkedin.com/in/andré-gonçalves-rocha-8329a51b4/" target="_blank"><img src="https://icongr.am/simple/facebook.svg?size=30&color=096bec&colored=false" target="_blank"></a>
+<a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://icongr.am/simple/discord.svg?size=30&color=096bec&colored=false" target="_blank"></a>    
+<a href = "mailto:gemeos@Andre-R0cha.com"><img src="https://icongr.am/simple/gmail.svg?size=30&color=930606&colored=false" target="_blank"></a>
+<a href="https://www.linkedin.com/in/andré-gonçalves-rocha-8329a51b4/" target="_blank"><img src="https://icongr.am/simple/linkedin.svg?size=30&color=2690ed&colored=false" target="_blank"></a>  
+<a href="https://instagram.com/andre_g.rocha/" target="_blank"><img src="https://icongr.am/simple/instagram.svg?size=30&color=f0d314&colored=false" target="_blank"></a>
+<a href="https://www.linkedin.com/in/andré-gonçalves-rocha-8329a51b4/" target="_blank"><img src="https://icongr.am/simple/facebook.svg?size=30&color=096bec&colored=false" target="_blank"></a>
  
 </div>
